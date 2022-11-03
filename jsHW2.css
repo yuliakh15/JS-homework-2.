@@ -1,0 +1,29 @@
+label {
+  width: 80px;
+  display: inline-block;
+}
+
+div {
+  margin: 5px;
+}
+
+.submit {
+  font-size: 15px;
+  font-family: fantasy;
+  width: 140px;
+}
+
+.wrapper {
+  border: 1px solid black;
+  width: 270px;
+  height: 270px;
+  font-family: fantasy;
+}
+
+#shapeChange {
+  border: 5px solid rgb(244, 100, 100);
+  background-color: rgb(249, 69, 69);
+  width: 150px;
+  height: 150px;
+  margin: 10px;
+}
